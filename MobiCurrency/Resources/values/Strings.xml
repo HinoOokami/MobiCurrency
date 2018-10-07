@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MobiCurrency</string>
+  <string-array name="currencies">
+    <item>RUB</item>
+    <item>USD</item>
+    <item>EUR</item>
+    <item>GBP</item>
+  </string-array>
+</resources>
